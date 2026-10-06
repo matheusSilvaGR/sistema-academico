@@ -1,0 +1,181 @@
+matricula,aluno,codigo,disciplina,avaliacao,nota,peso
+20240001,Ana Lima,ALG101,Algoritmos,P1,7.0,1
+20240001,Ana Lima,ALG101,Algoritmos,P2,6.1,1
+20240001,Ana Lima,ALG101,Algoritmos,Trabalho,6.0,2
+20240001,Ana Lima,BD201,Banco de Dados,P1,5.3,1
+20240001,Ana Lima,BD201,Banco de Dados,P2,6.1,1
+20240001,Ana Lima,BD201,Banco de Dados,Trabalho,7.7,2
+20240001,Ana Lima,WEB301,Desenvolvimento Web,P1,6.9,1
+20240001,Ana Lima,WEB301,Desenvolvimento Web,P2,7.6,1
+20240001,Ana Lima,WEB301,Desenvolvimento Web,Trabalho,6.7,2
+20240002,Bruno Souza,ALG101,Algoritmos,P1,7.7,1
+20240002,Bruno Souza,ALG101,Algoritmos,P2,5.4,1
+20240002,Bruno Souza,ALG101,Algoritmos,Trabalho,8.5,2
+20240002,Bruno Souza,BD201,Banco de Dados,P1,8.0,1
+20240002,Bruno Souza,BD201,Banco de Dados,P2,8.0,1
+20240002,Bruno Souza,BD201,Banco de Dados,Trabalho,5.4,2
+20240002,Bruno Souza,WEB301,Desenvolvimento Web,P1,5.3,1
+20240002,Bruno Souza,WEB301,Desenvolvimento Web,P2,6.4,1
+20240002,Bruno Souza,WEB301,Desenvolvimento Web,Trabalho,6.9,2
+20240003,Carla Dias,ALG101,Algoritmos,P1,7.2,1
+20240003,Carla Dias,ALG101,Algoritmos,P2,7.9,1
+20240003,Carla Dias,ALG101,Algoritmos,Trabalho,6.5,2
+20240003,Carla Dias,BD201,Banco de Dados,P1,7.7,1
+20240003,Carla Dias,BD201,Banco de Dados,P2,7.8,1
+20240003,Carla Dias,BD201,Banco de Dados,Trabalho,6.5,2
+20240003,Carla Dias,WEB301,Desenvolvimento Web,P1,9.3,1
+20240003,Carla Dias,WEB301,Desenvolvimento Web,P2,8.0,1
+20240003,Carla Dias,WEB301,Desenvolvimento Web,Trabalho,8.7,2
+20240004,Diego Rocha,ALG101,Algoritmos,P1,4.9,1
+20240004,Diego Rocha,ALG101,Algoritmos,P2,5.4,1
+20240004,Diego Rocha,ALG101,Algoritmos,Trabalho,5.7,2
+20240004,Diego Rocha,BD201,Banco de Dados,P1,6.6,1
+20240004,Diego Rocha,BD201,Banco de Dados,P2,6.1,1
+20240004,Diego Rocha,BD201,Banco de Dados,Trabalho,5.3,2
+20240004,Diego Rocha,WEB301,Desenvolvimento Web,P1,4.7,1
+20240004,Diego Rocha,WEB301,Desenvolvimento Web,P2,5.2,1
+20240004,Diego Rocha,WEB301,Desenvolvimento Web,Trabalho,7.3,2
+20240005,Elisa Prado,ALG101,Algoritmos,P1,5.8,1
+20240005,Elisa Prado,ALG101,Algoritmos,P2,6.0,1
+20240005,Elisa Prado,ALG101,Algoritmos,Trabalho,3.7,2
+20240005,Elisa Prado,BD201,Banco de Dados,P1,5.6,1
+20240005,Elisa Prado,BD201,Banco de Dados,P2,7.1,1
+20240005,Elisa Prado,BD201,Banco de Dados,Trabalho,3.1,2
+20240005,Elisa Prado,WEB301,Desenvolvimento Web,P1,5.1,1
+20240005,Elisa Prado,WEB301,Desenvolvimento Web,P2,5.4,1
+20240005,Elisa Prado,WEB301,Desenvolvimento Web,Trabalho,4.5,2
+20240006,Fábio Nunes,ALG101,Algoritmos,P1,7.5,1
+20240006,Fábio Nunes,ALG101,Algoritmos,P2,5.8,1
+20240006,Fábio Nunes,ALG101,Algoritmos,Trabalho,8.6,2
+20240006,Fábio Nunes,BD201,Banco de Dados,P1,8.4,1
+20240006,Fábio Nunes,BD201,Banco de Dados,P2,8.7,1
+20240006,Fábio Nunes,BD201,Banco de Dados,Trabalho,9.3,2
+20240006,Fábio Nunes,WEB301,Desenvolvimento Web,P1,8.0,1
+20240006,Fábio Nunes,WEB301,Desenvolvimento Web,P2,7.7,1
+20240006,Fábio Nunes,WEB301,Desenvolvimento Web,Trabalho,6.0,2
+20240007,Gabriela Melo,ALG101,Algoritmos,P1,7.1,1
+20240007,Gabriela Melo,ALG101,Algoritmos,P2,7.2,1
+20240007,Gabriela Melo,ALG101,Algoritmos,Trabalho,6.3,2
+20240007,Gabriela Melo,BD201,Banco de Dados,P1,6.6,1
+20240007,Gabriela Melo,BD201,Banco de Dados,P2,7.1,1
+20240007,Gabriela Melo,BD201,Banco de Dados,Trabalho,9.3,2
+20240007,Gabriela Melo,WEB301,Desenvolvimento Web,P1,5.3,1
+20240007,Gabriela Melo,WEB301,Desenvolvimento Web,P2,6.0,1
+20240007,Gabriela Melo,WEB301,Desenvolvimento Web,Trabalho,8.1,2
+20240008,Hugo Alves,ALG101,Algoritmos,P1,9.8,1
+20240008,Hugo Alves,ALG101,Algoritmos,P2,6.8,1
+20240008,Hugo Alves,ALG101,Algoritmos,Trabalho,6.1,2
+20240008,Hugo Alves,BD201,Banco de Dados,P1,9.5,1
+20240008,Hugo Alves,BD201,Banco de Dados,P2,8.2,1
+20240008,Hugo Alves,BD201,Banco de Dados,Trabalho,7.8,2
+20240008,Hugo Alves,WEB301,Desenvolvimento Web,P1,10,1
+20240008,Hugo Alves,WEB301,Desenvolvimento Web,P2,10,1
+20240008,Hugo Alves,WEB301,Desenvolvimento Web,Trabalho,9.3,2
+20240009,Isabela Cruz,ALG101,Algoritmos,P1,7.7,1
+20240009,Isabela Cruz,ALG101,Algoritmos,P2,9.1,1
+20240009,Isabela Cruz,ALG101,Algoritmos,Trabalho,7.9,2
+20240009,Isabela Cruz,BD201,Banco de Dados,P1,7.8,1
+20240009,Isabela Cruz,BD201,Banco de Dados,P2,7.9,1
+20240009,Isabela Cruz,BD201,Banco de Dados,Trabalho,5.3,2
+20240009,Isabela Cruz,WEB301,Desenvolvimento Web,P1,8.7,1
+20240009,Isabela Cruz,WEB301,Desenvolvimento Web,P2,8.3,1
+20240009,Isabela Cruz,WEB301,Desenvolvimento Web,Trabalho,7.8,2
+20240010,João Pires,ALG101,Algoritmos,P1,2.9,1
+20240010,João Pires,ALG101,Algoritmos,P2,4.7,1
+20240010,João Pires,ALG101,Algoritmos,Trabalho,1.5,2
+20240010,João Pires,BD201,Banco de Dados,P1,3.4,1
+20240010,João Pires,BD201,Banco de Dados,P2,4.9,1
+20240010,João Pires,BD201,Banco de Dados,Trabalho,2.1,2
+20240010,João Pires,WEB301,Desenvolvimento Web,P1,5.6,1
+20240010,João Pires,WEB301,Desenvolvimento Web,P2,4.3,1
+20240010,João Pires,WEB301,Desenvolvimento Web,Trabalho,3.5,2
+20240011,Karen Teles,ALG101,Algoritmos,P1,8.1,1
+20240011,Karen Teles,ALG101,Algoritmos,P2,7.5,1
+20240011,Karen Teles,ALG101,Algoritmos,Trabalho,8.7,2
+20240011,Karen Teles,BD201,Banco de Dados,P1,6.5,1
+20240011,Karen Teles,BD201,Banco de Dados,P2,6.8,1
+20240011,Karen Teles,BD201,Banco de Dados,Trabalho,8.6,2
+20240011,Karen Teles,WEB301,Desenvolvimento Web,P1,7.4,1
+20240011,Karen Teles,WEB301,Desenvolvimento Web,P2,6.3,1
+20240011,Karen Teles,WEB301,Desenvolvimento Web,Trabalho,8.5,2
+20240012,Lucas Faria,ALG101,Algoritmos,P1,8.6,1
+20240012,Lucas Faria,ALG101,Algoritmos,P2,7.5,1
+20240012,Lucas Faria,ALG101,Algoritmos,Trabalho,9.0,2
+20240012,Lucas Faria,BD201,Banco de Dados,P1,9.0,1
+20240012,Lucas Faria,BD201,Banco de Dados,P2,8.8,1
+20240012,Lucas Faria,BD201,Banco de Dados,Trabalho,10,2
+20240012,Lucas Faria,WEB301,Desenvolvimento Web,P1,7.9,1
+20240012,Lucas Faria,WEB301,Desenvolvimento Web,P2,10,1
+20240012,Lucas Faria,WEB301,Desenvolvimento Web,Trabalho,7.6,2
+20240013,Marina Costa,ALG101,Algoritmos,P1,6.3,1
+20240013,Marina Costa,ALG101,Algoritmos,P2,6.9,1
+20240013,Marina Costa,ALG101,Algoritmos,Trabalho,6.6,2
+20240013,Marina Costa,BD201,Banco de Dados,P1,6.0,1
+20240013,Marina Costa,BD201,Banco de Dados,P2,5.7,1
+20240013,Marina Costa,BD201,Banco de Dados,Trabalho,5.7,2
+20240013,Marina Costa,WEB301,Desenvolvimento Web,P1,6.2,1
+20240013,Marina Costa,WEB301,Desenvolvimento Web,P2,5.3,1
+20240013,Marina Costa,WEB301,Desenvolvimento Web,Trabalho,5.9,2
+20240014,Nicolas Reis,ALG101,Algoritmos,P1,7.7,1
+20240014,Nicolas Reis,ALG101,Algoritmos,P2,8.6,1
+20240014,Nicolas Reis,ALG101,Algoritmos,Trabalho,8.4,2
+20240014,Nicolas Reis,BD201,Banco de Dados,P1,10,1
+20240014,Nicolas Reis,BD201,Banco de Dados,P2,8.1,1
+20240014,Nicolas Reis,BD201,Banco de Dados,Trabalho,7.2,2
+20240014,Nicolas Reis,WEB301,Desenvolvimento Web,P1,7.3,1
+20240014,Nicolas Reis,WEB301,Desenvolvimento Web,P2,7.7,1
+20240014,Nicolas Reis,WEB301,Desenvolvimento Web,Trabalho,8.8,2
+20240015,Olívia Braga,ALG101,Algoritmos,P1,6.7,1
+20240015,Olívia Braga,ALG101,Algoritmos,P2,8.5,1
+20240015,Olívia Braga,ALG101,Algoritmos,Trabalho,3.2,2
+20240015,Olívia Braga,BD201,Banco de Dados,P1,4.9,1
+20240015,Olívia Braga,BD201,Banco de Dados,P2,6.6,1
+20240015,Olívia Braga,BD201,Banco de Dados,Trabalho,6.7,2
+20240015,Olívia Braga,WEB301,Desenvolvimento Web,P1,6.5,1
+20240015,Olívia Braga,WEB301,Desenvolvimento Web,P2,5.7,1
+20240015,Olívia Braga,WEB301,Desenvolvimento Web,Trabalho,7.0,2
+20240016,Paulo Vieira,ALG101,Algoritmos,P1,6.6,1
+20240016,Paulo Vieira,ALG101,Algoritmos,P2,10,1
+20240016,Paulo Vieira,ALG101,Algoritmos,Trabalho,7.7,2
+20240016,Paulo Vieira,BD201,Banco de Dados,P1,6.6,1
+20240016,Paulo Vieira,BD201,Banco de Dados,P2,7.1,1
+20240016,Paulo Vieira,BD201,Banco de Dados,Trabalho,7.0,2
+20240016,Paulo Vieira,WEB301,Desenvolvimento Web,P1,7.2,1
+20240016,Paulo Vieira,WEB301,Desenvolvimento Web,P2,4.0,1
+20240016,Paulo Vieira,WEB301,Desenvolvimento Web,Trabalho,6.7,2
+20240017,Queila Matos,ALG101,Algoritmos,P1,7.0,1
+20240017,Queila Matos,ALG101,Algoritmos,P2,8.3,1
+20240017,Queila Matos,ALG101,Algoritmos,Trabalho,9.6,2
+20240017,Queila Matos,BD201,Banco de Dados,P1,9.4,1
+20240017,Queila Matos,BD201,Banco de Dados,P2,10,1
+20240017,Queila Matos,BD201,Banco de Dados,Trabalho,6.4,2
+20240017,Queila Matos,WEB301,Desenvolvimento Web,P1,8.0,1
+20240017,Queila Matos,WEB301,Desenvolvimento Web,P2,8.0,1
+20240017,Queila Matos,WEB301,Desenvolvimento Web,Trabalho,9.2,2
+20240018,Rafael Lopes,ALG101,Algoritmos,P1,5.3,1
+20240018,Rafael Lopes,ALG101,Algoritmos,P2,9.9,1
+20240018,Rafael Lopes,ALG101,Algoritmos,Trabalho,6.8,2
+20240018,Rafael Lopes,BD201,Banco de Dados,P1,9.4,1
+20240018,Rafael Lopes,BD201,Banco de Dados,P2,6.8,1
+20240018,Rafael Lopes,BD201,Banco de Dados,Trabalho,8.8,2
+20240018,Rafael Lopes,WEB301,Desenvolvimento Web,P1,10,1
+20240018,Rafael Lopes,WEB301,Desenvolvimento Web,P2,8.4,1
+20240018,Rafael Lopes,WEB301,Desenvolvimento Web,Trabalho,8.8,2
+20240019,Sara Duarte,ALG101,Algoritmos,P1,8.2,1
+20240019,Sara Duarte,ALG101,Algoritmos,P2,8.0,1
+20240019,Sara Duarte,ALG101,Algoritmos,Trabalho,9.9,2
+20240019,Sara Duarte,BD201,Banco de Dados,P1,9.3,1
+20240019,Sara Duarte,BD201,Banco de Dados,P2,7.7,1
+20240019,Sara Duarte,BD201,Banco de Dados,Trabalho,10,2
+20240019,Sara Duarte,WEB301,Desenvolvimento Web,P1,6.7,1
+20240019,Sara Duarte,WEB301,Desenvolvimento Web,P2,9.2,1
+20240019,Sara Duarte,WEB301,Desenvolvimento Web,Trabalho,7.8,2
+20240020,Tiago Moraes,ALG101,Algoritmos,P1,7.9,1
+20240020,Tiago Moraes,ALG101,Algoritmos,P2,7.3,1
+20240020,Tiago Moraes,ALG101,Algoritmos,Trabalho,7.8,2
+20240020,Tiago Moraes,BD201,Banco de Dados,P1,5.2,1
+20240020,Tiago Moraes,BD201,Banco de Dados,P2,5.2,1
+20240020,Tiago Moraes,BD201,Banco de Dados,Trabalho,7.7,2
+20240020,Tiago Moraes,WEB301,Desenvolvimento Web,P1,5.9,1
+20240020,Tiago Moraes,WEB301,Desenvolvimento Web,P2,5.8,1
+20240020,Tiago Moraes,WEB301,Desenvolvimento Web,Trabalho,5.2,2
